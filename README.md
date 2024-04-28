@@ -1,3 +1,6 @@
 # Farming Simulator 22 language changer
-Just write the path to the FS root folder and write a number of wich language you want to set.
-If any language is missing or anything just write to the issues
+Program for changing language in region-locked versions of Farming Simulator 22.
+
+## How to use it
+**First** write the root folder of your FS22. That's the folder where you installed the game.
+**Then** choose the language and you're done.
